@@ -3,7 +3,7 @@
 #									  
 # Autor: Igor Nobre					  
 # Descrição: Script entra em diversos 
-# 			 diretórios e remove arquivos mais antigos que 90 dias  	  
+# 	     diretórios e remove arquivos mais antigos que 90 dias  	  
 #									  
 #----------------------------------------------------------------------
 cd /tmp/teste
