@@ -1,5 +1,3 @@
-Autor: Igor Nobre
-
 Antes de executar o script, certifique-se de configurar o arquivo que irá registrar os logs.
 
 1) Em /etc/rsyslog.d crie um arquivo por exemplo "script.conf", e o edite com a seguinte configuração de facility/priority:
