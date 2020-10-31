@@ -6,6 +6,10 @@
 # 	     diretórios e remove arquivos mais antigos que 90 dias  	  
 #									  
 #----------------------------------------------------------------------
+
+#Cria o diretório 'teste', caso ele ainda não exista
+mkdir -p /tmp/teste
+
 cd /tmp/teste
 #Declaração de variáveis
 #Exibe diretório atual
